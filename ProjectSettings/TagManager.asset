@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Backgrounds
+    uniqueID: 374084863
+    locked: 0
+  - name: Elements
+    uniqueID: 308999309
+    locked: 0
+  - name: Beakers
+    uniqueID: 515735499
+    locked: 0
